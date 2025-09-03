@@ -27,6 +27,8 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				B_2562.swift,
+				B_3052.swift,
+				B_5597.swift,
 				B_10807.swift,
 				B_10810.swift,
 				B_10818.swift,
