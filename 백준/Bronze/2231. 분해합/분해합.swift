@@ -9,8 +9,8 @@ for i in 1..<N {
       sum += Int(String(ch))!
   }
   
-  if sum + Int(X)! == N { 
-    value = Int(X)!
+  if sum + i == N { 
+    value = i
     break
   }
 }
