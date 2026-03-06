@@ -7,7 +7,7 @@
 안 하면 벌금 5,000원
 
 ### 🔥 100개 챌린지 도전 🔥
-<table><tr><td align="center"><a href="https://github.com/sangyup12"><img src="https://avatars.githubusercontent.com/u/108389915?v=4" width="100px;" alt=""/>         <br /><sub><b>sangyup12</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/76"/></sub></a><br /></td>
+<table><tr><td align="center"><a href="https://github.com/sangyup12"><img src="https://avatars.githubusercontent.com/u/108389915?v=4" width="100px;" alt=""/>         <br /><sub><b>sangyup12</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/77"/></sub></a><br /></td>
 </table>
 <br />
 
